@@ -1,0 +1,63 @@
+{
+  "users" : {
+    "0EWpFKYLJUNDGpNFYxTXuAmKtQI3" : {
+      "items" : {
+        "1603426354395" : {
+          "amount" : "850",
+          "category" : "Investments"
+        },
+        "1603426806563" : {
+          "amount" : "12",
+          "category" : "Forex",
+          "note" : "20/10"
+        },
+        "1603427072092" : {
+          "amount" : "1000",
+          "category" : "Forex"
+        },
+        "1603427282723" : {
+          "amount" : "4000",
+          "category" : "Forex"
+        }
+      }
+    },
+    "6NCRMgR6otaXNR7aY8mYOjTTmWp1" : {
+      "expenses" : "expensesdata",
+      "items" : {
+        "1603425413044" : {
+          "amount" : "30",
+          "category" : "savings",
+          "note" : "Home"
+        },
+        "1603425415555" : {
+          "amount" : "30",
+          "category" : "savings",
+          "note" : "Home"
+        },
+        "1603425599089" : {
+          "amount" : "30",
+          "category" : "Investments",
+          "note" : "Home"
+        },
+        "1603425681500" : {
+          "amount" : "50",
+          "category" : "Investments",
+          "note" : "Home"
+        },
+        "1603425766150" : {
+          "amount" : "50",
+          "category" : "Forex",
+          "note" : "15/10"
+        },
+        "1603426039452" : {
+          "amount" : "500",
+          "category" : "Forex",
+          "note" : ""
+        }
+      }
+    },
+    "piTTcRQgdKfdKp0YSbHlZZmYSYF2" : {
+      "expenses" : "test"
+    }
+  }
+}
